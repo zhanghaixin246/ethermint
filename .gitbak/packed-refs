@@ -1,0 +1,28 @@
+# pack-refs with: peeled fully-peeled sorted 
+0614dc2a078f5559816ea804443bb4f94bb34205 refs/remotes/origin/dependabot/go_modules/github.com/ethereum/go-ethereum-1.10.10
+06799c42836677d613a1f69d86239ac24f6cd86e refs/remotes/origin/evm-keeper-benchmark
+56487bfb045c618564b67fb34a36f3458d87084d refs/remotes/origin/fedekunze/bump-ibc
+218c5acc98876e2364e98150c4fa5ad0e190f36f refs/remotes/origin/gh-pages
+799dffef7dea25997b324c077623b066cf8a8bea refs/remotes/origin/main
+72c23a1bc4dde8d4be3e5fb953dedf67ce2de380 refs/remotes/origin/release-changelog
+b3f67620003edc734270b9d36a8e7b4305544208 refs/remotes/origin/release/v0.2.0
+42cd419bf188b03e026005e339698b8c63fc8cd2 refs/remotes/origin/release/v0.2.1
+e91df429aa5c4953aff8f05bc90741e57c0df128 refs/remotes/origin/release/v0.5.x
+f4d89fdbd772216d4655fc4e41662922bd05663d refs/remotes/origin/release/v0.6.x
+222420f2ab77111a724b5fabbe32297cdfcacb33 refs/remotes/origin/release/v0.7.x
+ebf01385952910af4975e455dcce7fee3c54d963 refs/tags/v0.0.0
+^50a632580d132e1ca03816c1f088b1e5e5c0fb1f
+8fd9ed25b229cfa3a16dd50825caca8770d5779a refs/tags/v0.1.0
+^09b6a89b741a5835ce1b901b8ede0b1931b03b9b
+683cc135c4cd0e1da02dc9adb6771c0c0c1284c5 refs/tags/v0.2.0
+^b3f67620003edc734270b9d36a8e7b4305544208
+f1095f2f124ed2dd82c29b6c7c524fb35f44ce49 refs/tags/v0.2.1
+^42cd419bf188b03e026005e339698b8c63fc8cd2
+2796f55b023e4fa71e96a695d324dd8409d7ced3 refs/tags/v0.3.0
+4dfe396b97aa964ed92f326bcbef2b9a9634d838 refs/tags/v0.3.1
+11e2f636787f453dac645b53e6b930d42bbb8711 refs/tags/v0.4.0
+11fbf1fd44ab1b600597d226508bca4a81244441 refs/tags/v0.4.1
+e91df429aa5c4953aff8f05bc90741e57c0df128 refs/tags/v0.5.0
+aeb7e1589edcc899fa2cc719839f83296c74b604 refs/tags/v0.6.0
+de83c87f683aab5372bbf374b8d9d84523eeeae3 refs/tags/v0.7.0
+222420f2ab77111a724b5fabbe32297cdfcacb33 refs/tags/v0.7.1

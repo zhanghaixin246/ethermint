@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 799dffef7dea25997b324c077623b066cf8a8bea 张恒 <zhangheng@trustslink.com> 1634900550 +0800	clone: from https://github.com/tharsis/ethermint.git
+799dffef7dea25997b324c077623b066cf8a8bea e91df429aa5c4953aff8f05bc90741e57c0df128 张恒 <zhangheng@trustslink.com> 1634900588 +0800	checkout: moving from main to v0.5.0
+e91df429aa5c4953aff8f05bc90741e57c0df128 6e4004c175f171f56b8ab8dde7f0c79b1356bb4e 张恒 <zhangheng@trustslink.com> 1634901274 +0800	commit: feat:add vendor
